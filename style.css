@@ -1,0 +1,35 @@
+#result{
+  position: absolute;
+  left: 0%;
+  width: 100%;
+  top: 0%;
+  height: 100%;
+  display: none;
+  font-size:40px;
+  z-index: 100;
+}
+
+#resimg{
+  width: 200px;
+  height:200px;
+}
+
+#Div1{
+  display: inline-block;
+}
+
+#Div2{
+  display: inline-block;
+}
+
+p{
+  font-size: 20px;
+}
+#col2{
+  display: inline-block;
+  position: absolute;
+  left:30%;
+}
+#col1{
+  display:inline-block;
+}
